@@ -10,5 +10,7 @@ A simple web-project, created in educational purposes. Task manager, that can he
 -CSS3.
 -JavaScript.
 #How to use
+PC USAGE ONLY!
 -Click the github-deploy link and use the website from any device.
 -Clone repository for individual usage and ability to customize task manager.
+
